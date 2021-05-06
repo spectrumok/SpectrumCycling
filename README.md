@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Lua
 - 💞️ I’m looking to collaborate on Lua Coding
-- 📫 How to reach me Kakashi Hatake#0003
+- 📫 How to reach me Spectrum#0003
 
 <!---
 SpectrumCycling/SpectrumCycling is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
